@@ -4,7 +4,7 @@ A Personal Todos-Goals App built with Redux
 
 # APP
 
-
+![](https://raw.githubusercontent.com/yash-me/Todos-Goals-App/master/App.png)
 
 
 ## Project Setup
